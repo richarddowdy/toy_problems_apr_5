@@ -1,4 +1,4 @@
-const apiKey = "08455840153346c7a276a3a32bd6b948"
+const apiKey = ""
 const baseUrl =  "http://api.openweathermap.org/geo/1.0/direct"
 
 function fetchData(city, state, resultLimit = 3) {
